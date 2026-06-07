@@ -1,6 +1,6 @@
 <div align="center">
 
-# CaxitSecurity
+# Joseph Bravo / CaxitSecurity
 
 ### [Analista Programador | Ethical Hacking | Red Team]
 
