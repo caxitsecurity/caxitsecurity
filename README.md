@@ -2,7 +2,7 @@
 
 # Joseph Bravo / CaxitSecurity
 
-### [Analista Programador | Ethical Hacking | Red Team]
+### [ Analista Programador | Ethical Hacking | Red Team ]
 
 `Python Ofensivo` • `Bash Scripting` • `Linux` • `Redes Informáticas` • `Pentesting Labs`
 
