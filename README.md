@@ -13,14 +13,13 @@
 ---
 
 ```bash
-┌──(caxitsecurity㉿arch)-[~/road-to-pentester]
+┌──(caxitsecurity~arch)-[~/road-to-pentester]
 └─$ whoami
-Joseph | Analista Programador en formación | Ethical Hacking & Red Team
+Joseph Bravo 
 
-┌──(caxitsecurity㉿arch)-[~/road-to-pentester]
-└─$ cat objetivo.txt
-Aprender cómo funcionan realmente los sistemas por detrás,
-documentar el proceso y construir un portafolio técnico real.
+┌──(caxitsecurity~arch)-[~/road-to-pentester]
+└─$ cat objetivo.
+Pentester & Red Teamer
 ```
 
 ---
@@ -30,27 +29,22 @@ documentar el proceso y construir un portafolio técnico real.
 ```python
 class CaxitSecurity:
     def __init__(self):
-        self.nombre = "Joseph"
+        self.nombre = "Joseph Bravo"
         self.pais = "Chile"
-        self.formacion = "Analista Programador"
+        self.formacion = "Pentesting"
         self.intereses = [
             "Ethical Hacking",
             "Red Team",
             "Python Ofensivo",
             "Bash Scripting",
-            "Redes CCNA",
-            "Linux"
+            "Redes Informáticas",
+            "Linux Avanzado"
         ]
         self.sistema_principal = "Arch Linux"
         self.lab = ["Kali Linux", "Parrot Security", "VMware", "Hack The Box", "TryHackMe"]
-
-    def mentalidad(self):
-        return "Aprender, practicar, documentar y mejorar paso a paso."
 ```
 
-Estoy construyendo mi camino técnico desde las bases: Linux, redes, scripting, Python ofensivo y laboratorios de ciberseguridad.
-
-Mi enfoque está en aprender de forma ética, entender los fundamentos y practicar en entornos controlados antes de avanzar a técnicas más complejas.
+Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laboratorios de ciberseguridad.
 
 ---
 
@@ -150,19 +144,10 @@ Pentesting.
 
 ---
 
-## Principios
-
-- Aprender desde fundamentos, y como funciona realmente cada cosa por detrás.
-- Documentar el proceso, incluso cuando todavía estoy empezando.
-- Practicar ciberseguridad solo en entornos controlados como Hackthebox y tryhackme.
-- Construir un portafolio real.
-
----
-
 <div align="center">
 
 ```text
-"No busco aparentar saberlo todo. Busco entender, practicar y mejorar."
+"No busco aparentar saberlo todo. Busco entenderlo todo jeje."
 ```
 
 **Analista Programador | Ethical Hacking | Red Team**
