@@ -13,11 +13,11 @@
 ---
 
 ```bash
-┌──(caxitsecurity~arch)-[~/road-to-pentester]
+┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ whoami
 Joseph Bravo 
 
-┌──(caxitsecurity~arch)-[~/road-to-pentester]
+┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ cat objetivo.
 Pentester & Red Teamer
 ```
