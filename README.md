@@ -1,15 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:2563EB&height=210&section=header&text=CaxitSecurity&fontSize=58&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Analista%20Programador%20en%20formaci%C3%B3n%20%7C%20Linux%20%26%20Ciberseguridad&descAlignY=60&descSize=17" />
-</p>
+<div align="center">
 
-<h3 align="center">Python • Linux • Redes • Homelab • Road to Pentester</h3>
+# CaxitSecurity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chile-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-En%20formaci%C3%B3n-2563EB?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=caxitsecurity&style=for-the-badge&color=2563EB&label=VISITAS" />
-</p>
+### [Analista Programador | Ethical Hacking | Red Team]
+
+`Python Ofensivo` • `Bash Scripting` • `Linux` • `Redes` • `Pentesting Labs`
+
+<img src="https://komarev.com/ghpvc/?username=caxitsecurity&style=flat-square&color=2563EB&label=VISITAS" />
+
+</div>
+
+---
+
+```bash
+┌──(caxitsecurity㉿arch)-[~/road-to-pentester]
+└─$ whoami
+Joseph | Analista Programador en formación | Ethical Hacking & Red Team
+
+┌──(caxitsecurity㉿arch)-[~/road-to-pentester]
+└─$ cat objetivo.txt
+Aprender cómo funcionan realmente los sistemas por detrás,
+documentar el proceso y construir un portafolio técnico real.
+```
 
 ---
 
@@ -20,24 +32,25 @@ class CaxitSecurity:
     def __init__(self):
         self.nombre = "Joseph"
         self.pais = "Chile"
-        self.estudios = "Analista Programador en formación"
-        self.sistema = "Arch Linux + i3wm"
-        self.enfoque = [
-            "Python",
-            "Linux",
-            "Redes",
-            "Homelab",
-            "Ciberseguridad"
+        self.formacion = "Analista Programador"
+        self.intereses = [
+            "Ethical Hacking",
+            "Red Team",
+            "Python Ofensivo",
+            "Bash Scripting",
+            "Redes CCNA",
+            "Linux"
         ]
-        self.objetivo = "Construir bases sólidas para seguridad informática y pentesting ético"
+        self.sistema_principal = "Arch Linux"
+        self.lab = ["Kali Linux", "Parrot Security", "VMware", "Hack The Box", "TryHackMe"]
 
-    def estado_actual(self):
-        return "Aprendiendo, practicando y documentando mi camino técnico."
+    def mentalidad(self):
+        return "Aprender, practicar, documentar y mejorar paso a paso."
 ```
 
-Soy estudiante de **Analista Programador** y estoy construyendo una ruta técnica enfocada en programación, Linux, redes, automatización y ciberseguridad.
+Estoy construyendo mi camino técnico desde las bases: Linux, redes, scripting, Python ofensivo y laboratorios de ciberseguridad.
 
-Mi objetivo es aprender desde la base: entender sistemas, documentar procesos, crear proyectos reales y practicar seguridad informática en entornos propios, autorizados o plataformas legales.
+Mi enfoque está en aprender de forma ética, entender los fundamentos y practicar en entornos controlados antes de avanzar a técnicas más complejas.
 
 ---
 
@@ -45,20 +58,16 @@ Mi objetivo es aprender desde la base: entender sistemas, documentar procesos, c
 
 <table>
   <tr>
-    <td><b>Programación</b></td>
-    <td>Python, lógica, scripts de consola y automatización.</td>
+    <td><b>Python Ofensivo</b></td>
+    <td>Python ofensivo para ciberseguridad y hacking ético.</td>
   </tr>
   <tr>
-    <td><b>Linux</b></td>
-    <td>Arch Linux, i3wm, terminal, dotfiles y personalización.</td>
+    <td><b>Bash Scripting</b></td>
+    <td>Scripting en Bash para Linux, automatización y flujo de trabajo en terminal.</td>
   </tr>
   <tr>
     <td><b>Redes</b></td>
-    <td>Fundamentos, troubleshooting, servicios, máquinas virtuales y homelab.</td>
-  </tr>
-  <tr>
-    <td><b>Ciberseguridad</b></td>
-    <td>Aprendizaje ético en laboratorios controlados y plataformas legales.</td>
+    <td>Redes CCNA 1 y 2: fundamentos, direccionamiento, servicios y troubleshooting.</td>
   </tr>
 </table>
 
@@ -67,59 +76,19 @@ Mi objetivo es aprender desde la base: entender sistemas, documentar procesos, c
 ## Stack tecnológico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=for-the-badge&logo=arch-linux&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/i3wm-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polybar-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Picom-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=268BEE" />
+  <img src="https://img.shields.io/badge/Parrot%20Security-0F172A?style=for-the-badge&logo=linux&logoColor=00E0FF" />
 </p>
-
----
-
-## Lenguajes y herramientas en práctica
-
-<table>
-  <tr>
-    <th>Tecnología</th>
-    <th>Enfoque</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Fundamentos, scripts, automatización y proyectos de consola.</td>
-  </tr>
-  <tr>
-    <td>Bash</td>
-    <td>Comandos Linux, scripts simples y flujo de trabajo en terminal.</td>
-  </tr>
-  <tr>
-    <td>HTML / CSS / JavaScript</td>
-    <td>Prácticas web, interfaces simples y bases de frontend.</td>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td>Arch Linux, i3wm, configuración del sistema y dotfiles.</td>
-  </tr>
-  <tr>
-    <td>Redes</td>
-    <td>IP, servicios, máquinas virtuales, troubleshooting y laboratorio propio.</td>
-  </tr>
-</table>
 
 ---
 
@@ -132,13 +101,11 @@ Redes y servicios
     ↓
 Bash scripting y automatización
     ↓
-Python aplicado
-    ↓
-Homelab y máquinas virtuales
+Python Ofensivo
     ↓
 Ciberseguridad defensiva y ofensiva en laboratorios
     ↓
-Road to Pentester
+Pentesting.
 ```
 
 ---
@@ -153,23 +120,18 @@ Road to Pentester
   </tr>
   <tr>
     <td><a href="https://github.com/caxitsecurity/Proyectos-Python"><b>Proyectos-Python</b></a></td>
-    <td>Ejercicios, scripts y mini proyectos para aprender Python desde cero.</td>
+    <td>Ejercicios, scripts y mini proyectos para fortalecer Python desde la base.</td>
     <td>En progreso</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/caxitsecurity/ArchPersonal-Ligero-PCPotato-I3-Polybar-Picom.-"><b>ArchPersonal</b></a></td>
-    <td>Configuración personal de Arch Linux con i3, Polybar, Picom y entorno minimalista.</td>
-    <td>Activo</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/caxitsecurity/Python-Ofensivo"><b>Python-Ofensivo</b></a></td>
-    <td>Prácticas educativas de Python orientadas a laboratorios de seguridad.</td>
+    <td>Prácticas educativas de Python aplicadas a ciberseguridad en laboratorios controlados.</td>
     <td>Aprendizaje</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/caxitsecurity/webs"><b>Webs</b></a></td>
-    <td>Prácticas y proyectos relacionados con desarrollo web.</td>
-    <td>En desarrollo</td>
+    <td><a href="https://github.com/caxitsecurity/ArchPersonal-Ligero-PCPotato-I3-Polybar-Picom.-"><b>ArchPersonal</b></a></td>
+    <td>Configuración personal de Arch Linux, i3, Polybar y entorno minimalista.</td>
+    <td>Activo</td>
   </tr>
 </table>
 
@@ -178,34 +140,31 @@ Road to Pentester
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caxitsecurity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxitsecurity&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=CBD5E1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caxitsecurity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caxitsecurity&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caxitsecurity&theme=tokyonight&hide_border=true&background=020617&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" />
+  <img src="https://streak-stats.demolab.com?user=caxitsecurity&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
 ## Principios
 
-- Aprender desde fundamentos, no desde atajos.
+- Aprender desde fundamentos, y como funciona realmente cada cosa por detrás.
 - Documentar el proceso, incluso cuando todavía estoy empezando.
-- Practicar ciberseguridad solo en entornos propios, autorizados o plataformas legales.
-- Mantener disciplina técnica: Linux, programación, redes y seguridad.
-- Construir un portafolio real, paso a paso.
+- Practicar ciberseguridad solo en entornos controlados como Hackthebox y tryhackme.
+- Construir un portafolio real.
 
 ---
 
-<p align="center">
-  <i>“La disciplina construye lo que la motivación solo imagina.”</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Analista Programador en formación — Road to Pentester</b>
-</p>
+```text
+"No busco aparentar saberlo todo. Busco entender, practicar y mejorar."
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" />
-</p>
+**Analista Programador | Ethical Hacking | Red Team**
+
+</div>
