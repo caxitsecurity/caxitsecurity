@@ -4,7 +4,7 @@
 
 ### [Analista Programador | Ethical Hacking | Red Team]
 
-`Python Ofensivo` • `Bash Scripting` • `Linux` • `Redes` • `Pentesting Labs`
+`Python Ofensivo` • `Bash Scripting` • `Linux` • `Redes Informáticas` • `Pentesting Labs`
 
 <img src="https://komarev.com/ghpvc/?username=caxitsecurity&style=flat-square&color=2563EB&label=VISITAS" />
 
