@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joseph Bravo / CaxitSecurity
+# CaxitDestroy
 
 ### [ Analista Programador | Ethical Hacking | Red Team ]
 
@@ -15,7 +15,7 @@
 ```bash
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ whoami
-Joseph Bravo 
+Joseph 
 
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ cat objetivo.
