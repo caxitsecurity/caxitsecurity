@@ -29,7 +29,7 @@ Pentester & Red Teamer
 ```python
 class CaxitSecurity:
     def __init__(self):
-        self.nombre = "Joseph Bravo"
+        self.nombre = "Joseph "
         self.pais = "Chile"
         self.formacion = "Pentesting"
         self.intereses = [
