@@ -1,6 +1,6 @@
 <div align="center">
 
-# CaxitDestroy
+# Cax1t
 
 ### [ Analista Programador | Ethical Hacking | Red Team ]
 
@@ -27,7 +27,7 @@ Pentester & Red Teamer
 ## Sobre mí
 
 ```python
-class CaxitSecurity:
+class Cax1t:
     def __init__(self):
         self.nombre = "Joseph "
         self.pais = "Chile"
