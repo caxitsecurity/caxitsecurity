@@ -29,7 +29,7 @@ Pentester & Red Teamer
 ```python
 class Cax1t:
     def __init__(self):
-        self.nombre = "Joseph "
+        self.nombre = "R. "
         self.pais = "Chile"
         self.formacion = "Pentesting"
         self.intereses = [
@@ -41,7 +41,7 @@ class Cax1t:
             "Linux Avanzado"
         ]
         self.sistema_principal = "Arch Linux"
-        self.lab = ["Kali Linux", "Parrot Security", "VMware", "Hack The Box", "TryHackMe"]
+        self.lab = ["Kali Linux", "Arch Linux", "VMware", "Hack The Box", "TryHackMe"]
 ```
 
 Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laboratorios de ciberseguridad.
@@ -96,8 +96,6 @@ Redes y servicios
 Bash scripting y automatización
     ↓
 Python Ofensivo
-    ↓
-Ciberseguridad defensiva y ofensiva en laboratorios
     ↓
 Pentesting.
 ```
