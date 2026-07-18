@@ -61,7 +61,7 @@ Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laborato
   </tr>
   <tr>
     <td><b>Redes</b></td>
-    <td>Redes CCNA 1 y 2: fundamentos, direccionamiento, servicios y troubleshooting.</td>
+    <td>Redes CCNA: fundamentos, direccionamiento, servicios y troubleshooting.</td>
   </tr>
 </table>
 
