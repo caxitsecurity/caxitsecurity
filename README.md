@@ -2,7 +2,7 @@
 
 # CAX1T
 
-### [ Analista Programador | Ethical Hacking | Red Team ]
+### [ Offensive Security & Linux | Telecommunications | Analista Programador Student ]
 
 `Python` • `Bash` • `Linux` • `Redes` • `Pentesting Labs`
 
