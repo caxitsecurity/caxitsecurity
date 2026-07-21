@@ -4,7 +4,7 @@
 
 ### [ Analista Programador | Ethical Hacking | Red Team ]
 
-`Python Ofensivo` • `Bash Scripting` • `Linux` • `Redes Informáticas` • `Pentesting Labs`
+`Python` • `Bash` • `Linux` • `Redes` • `Pentesting Labs`
 
 <img src="https://komarev.com/ghpvc/?username=caxitsecurity&style=flat-square&color=2563EB&label=VISITAS" />
 
@@ -15,7 +15,7 @@
 ```bash
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ whoami
-R. 
+R. Bravo
 
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ cat objetivo.
@@ -31,20 +31,19 @@ class Cax1t:
     def __init__(self):
         self.nombre = "R. "
         self.pais = "Chile"
-        self.formacion = "Pentesting"
+        self.formacion = "Offensive Security"
         self.intereses = [
             "Ethical Hacking",
             "Red Team",
-            "Python Ofensivo",
-            "Bash Scripting",
-            "Redes Informáticas",
-            "Linux Avanzado"
+            "Python",
+            "Redes y  Telecomunicaciones",
+            "Linux"
         ]
         self.sistema_principal = "Arch Linux"
-        self.lab = ["Kali Linux", "Arch Linux", "VMware", "Hack The Box", "TryHackMe"]
+        self.lab = ["Kali Linux", "VMware", "Hack The Box", "TryHackMe"]
 ```
 
-Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laboratorios de ciberseguridad.
+Offensive Security & Linux | Telecommunications | Analista Programador Student
 
 ---
 
@@ -52,16 +51,16 @@ Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laborato
 
 <table>
   <tr>
-    <td><b>Python Ofensivo</b></td>
-    <td>Python ofensivo para ciberseguridad y hacking ético.</td>
+    <td><b>Python</b></td>
+    <td>Python ofensivo para ciberseguridad ofensiva y automatización.</td>
   </tr>
   <tr>
-    <td><b>Bash Scripting</b></td>
-    <td>Scripting en Bash para Linux, automatización y flujo de trabajo en terminal.</td>
+    <td><b>Bash</b></td>
+    <td>Scripting en bash para linux, automatización y flujo de trabajo en terminal.</td>
   </tr>
   <tr>
     <td><b>Redes</b></td>
-    <td>Redes CCNA: fundamentos, direccionamiento, servicios y troubleshooting.</td>
+    <td>Redes: direccionamiento, servicios, protocolos y troubleshooting.</td>
   </tr>
 </table>
 
@@ -70,7 +69,6 @@ Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laborato
 ## Stack tecnológico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15" />
   <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=22C55E" />
   <img src="https://img.shields.io/badge/Arch%20Linux-111827?style=for-the-badge&logo=arch-linux&logoColor=60A5FA" />
@@ -81,7 +79,6 @@ Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laborato
 <p align="center">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=268BEE" />
-  <img src="https://img.shields.io/badge/Parrot%20Security-0F172A?style=for-the-badge&logo=linux&logoColor=00E0FF" />
 </p>
 
 ---
@@ -89,15 +86,15 @@ Linux avanzado, redes informatico, scripting en bash, Python ofensivo y laborato
 ## Ruta de aprendizaje
 
 ```text
-Linux avanzado
+Linux 
     ↓
-Redes y servicios
+Redes
     ↓
 Bash scripting y automatización
     ↓
-Python Ofensivo
+Python
     ↓
-Pentesting.
+Pentestings Labs.
 ```
 
 ---
@@ -116,13 +113,13 @@ Pentesting.
     <td>En progreso</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/caxitsecurity/Python-Ofensivo"><b>Python-Ofensivo</b></a></td>
-    <td>Prácticas educativas de Python aplicadas a ciberseguridad en laboratorios controlados.</td>
+    <td><a href="https://github.com/caxitsecurity/Python-Ofensivo"><b>Python-Ofensivo [PRIVADO]</b></a></td>
+    <td>Prácticas de Python aplicadas a ciberseguridad ofensiva en laboratorios controlados.</td>
     <td>Aprendizaje</td>
   </tr>
   <tr>
     <td><a href="https://github.com/caxitsecurity/ArchPersonal-Ligero-PCPotato-I3-Polybar-Picom.-"><b>ArchPersonal</b></a></td>
-    <td>Configuración personal de Arch Linux, i3, Polybar y entorno minimalista.</td>
+    <td>Configuración personal de Arch Linux con i3, polybar, feh, un entorno minimalista pero productivo, etc.</td>
     <td>Activo</td>
   </tr>
 </table>
@@ -145,9 +142,9 @@ Pentesting.
 <div align="center">
 
 ```text
-"No busco aparentar saberlo todo. Busco entenderlo todo jeje."
+"Dandole mi corte con Pestesting y Linux."
 ```
 
-**Analista Programador | Ethical Hacking | Red Team**
+**Offensive Security & Linux | Telecommunications | Analista Programador Student**
 
 </div>
