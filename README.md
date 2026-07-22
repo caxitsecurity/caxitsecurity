@@ -86,13 +86,13 @@ class Cax1t:
 
 ```text
 Linux 
-    ↓
+  ↓
 Redes
-    ↓
+  ↓
 Bash scripting y automatización
-    ↓
+  ↓
 Python
-    ↓
+  ↓
 Pentestings Labs.
 ```
 
