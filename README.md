@@ -99,7 +99,7 @@ Pentestings Labs.
 
 ---
 
-## Proyectos destacados
+## Repositorios
 
 <table>
   <tr>
