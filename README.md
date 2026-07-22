@@ -4,7 +4,7 @@
 
 ### [ Offensive Security & Linux | Telecommunications | Analista Programador Student ]
 
-`Python` • `Bash` • `Linux` • `Redes` • `Pentesting Labs`
+`Python` • `Bash` • `Linux` • `Redes` • `Pentesting`
 
 <img src="https://komarev.com/ghpvc/?username=caxitsecurity&style=flat-square&color=2563EB&label=VISITAS" />
 
