@@ -38,7 +38,7 @@ class Cax1t:
             "Red Team",
             "Python",
             "Networking y Telecommunications",
-            "Linux"
+            "Linuxero"
         ]
         self.sistema_principal = "Arch Linux"
         self.lab = ["Kali Linux", "VMware", "Hack The Box", "TryHackMe"]
