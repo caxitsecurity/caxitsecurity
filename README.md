@@ -29,7 +29,7 @@ Pentester & Red Teamer
 ```python
 class Cax1t:
     def __init__(self):
-        self.nombre = "R. "
+        self.nombre = "R. Bravo"
         self.pais = "Chile"
         self.formacion = "Offensive Security"
         self.intereses = [
