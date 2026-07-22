@@ -36,7 +36,7 @@ class Cax1t:
             "Ethical Hacking",
             "Red Team",
             "Python",
-            "Redes y Telecomunicaciones",
+            "Networking y Telecommunications",
             "Linux"
         ]
         self.sistema_principal = "Arch Linux"
