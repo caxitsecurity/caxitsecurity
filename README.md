@@ -1,5 +1,5 @@
 <div align="center">
-# $ WHOAMI
+$ WHOAMI
     
 # cax1tsecurity | R. Bravo
 
