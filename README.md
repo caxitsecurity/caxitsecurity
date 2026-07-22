@@ -43,8 +43,6 @@ class Cax1t:
         self.lab = ["Kali Linux", "VMware", "Hack The Box", "TryHackMe"]
 ```
 
-Offensive Security & Linux | Telecommunications | Analista Programador Student
-
 ---
 
 ## Enfoque actual
