@@ -15,7 +15,7 @@
 ```bash
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ whoami
-R. Bravo
+cax1t | R. Bravo
 
 ┌──(root@caxitsecurity)-[~/road-to-pentester]
 └─$ cat objetivo.
