@@ -3,7 +3,7 @@ $ whoami
     
 # cax1tsecurity | R. Bravo
 
-### [ Offensive Security & Linux | Telecommunications | Analista Programador Student ]
+### [ Offensive Cybersecurity & Linux | Telecommunications | Analista Programador Student ]
 
 ` Python ` • ` Bash ` • ` Linux ` • ` Redes ` • ` Pentesting ` • ` Cybersecurity `
 
